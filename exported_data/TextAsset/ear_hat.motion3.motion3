@@ -1,0 +1,61 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 0.033,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 3,
+		"TotalSegmentCount": 3,
+		"TotalPointCount": 12,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamFoxearL",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.011,
+				0,
+				0.022,
+				0,
+				0.033,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamFoxearR",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.011,
+				0,
+				0.022,
+				0,
+				0.033,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamHat",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.011,
+				1,
+				0.022,
+				1,
+				0.033,
+				1
+			]
+		}
+	]
+}

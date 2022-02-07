@@ -1,0 +1,17 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "mori_mikocfs.moc3",
+		"Textures": [
+			"mori_mikocfs.4096/texture_00.png"
+		],
+		"Physics": "mori_mikocfs.physics3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

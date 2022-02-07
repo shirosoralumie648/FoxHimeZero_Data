@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "ruri_miko.moc3",
+		"Textures": [
+			"ruri_miko.4096/texture_00.png",
+			"ruri_miko.4096/texture_01.png"
+		],
+		"Physics": "ruri_miko.physics3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

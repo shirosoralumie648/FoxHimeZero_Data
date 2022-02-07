@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AVGUI - BtnAddSave -->
+    <string name="l983275tljw56m-n5" mz="title">存檔</string>
+    <!-- AVGUI - BtnAutoText -->
+    <string name="l983275tljw56b-n12" mz="n12">自動播放</string>
+    <!-- AVGUI - BtnCfg -->
+    <string name="l983275tljw56h-n15" mz="n15">遊戲設置</string>
+    <!-- AVGUI - BtnCon -->
+    <string name="l983275tsilp3g-n0" mz="n0">開始遊戲</string>
+    <!-- AVGUI - BtnDelete -->
+    <string name="l983275tdjk42x-n5" mz="title">刪除</string>
+  <!-- AVGUI - BtnDLCMoriChan -->
+  <string name="l983275tofvc8d-n1_ofvc" mz="n1">MoriChan</string>
+    <!-- AVGUI - BtnDropdown -->
+    <string name="l983275tpxmk5r-n3" mz="ResolutionDisp">1920x1080</string>
+    <!-- AVGUI - BtnDropdownForLang -->
+    <string name="l983275tjyee6y-n3" mz="LangDisp">简体中文</string>
+    <!-- AVGUI - BtnExit -->
+    <string name="l983275tljw56i-n18" mz="n18">退出遊戲</string>
+    <!-- AVGUI - BtnHideUI -->
+    <string name="l983275tuz6c73-n15" mz="n15">隱藏UI界面</string>
+    <!-- AVGUI - BtnHome -->
+    <string name="l983275tljw56f-n15" mz="n15">返回主界面</string>
+    <!-- AVGUI - BtnLoadIn -->
+    <string name="l983275tdjk42z-n5" mz="title">載入</string>
+  <!-- AVGUI - BtnLoadInReStart -->
+  <string name="l983275tb3xd8r-n5" mz="title">重新開始</string>
+    <!-- AVGUI - BtnLoadInStart -->
+    <string name="l983275tjpq67g-n5" mz="title">開始遊戲</string>
+    <!-- AVGUI - BtnLoadSelect -->
+    <string name="l983275tsilp3f-n0" mz="n0">讀取存檔</string>
+    <!-- AVGUI - BtnOk -->
+    <string name="l983275tq8v064-n5" mz="title">確認</string>
+  <!-- AVGUI - BtnReplayInReview -->
+  <string name="l983275tstyq8k-n16" mz="n16">重讀語音</string>
+  <!-- AVGUI - BtnReplayInTextBoard -->
+  <string name="l983275tstyq8l-n16" mz="n16">重讀語音</string>
+    <!-- AVGUI - BtnReset -->
+    <string name="l983275thsf77l-n5" mz="title">恢復原始設置</string>
+    <!-- AVGUI - BtnReturn -->
+    <string name="l983275tmjcob-n5" mz="title">返回</string>
+    <!-- AVGUI - BtnReview -->
+    <string name="l983275tljw56g-n15" mz="n15">查看回想</string>
+  <!-- AVGUI - BtnRewrite -->
+  <string name="l983275tr1z68g-n5" mz="title">覆蓋</string>
+    <!-- AVGUI - BtnSave -->
+    <string name="l983275tljw56c-n16" mz="n16">管理存檔</string>
+    <!-- AVGUI - BtnSceneSelect -->
+    <string name="l983275tsilp3e-n0" mz="n0">章節選擇</string>
+    <!-- AVGUI - CGMain -->
+    <string name="l983275tmcd92-n6" mz="n6">相冊模式</string>
+    <string name="l983275tmcd92-n10" mz="n10">已收集:</string>
+    <!-- AVGUI - ConfigMain -->
+    <string name="l983275tsilp3m-n4" mz="n4">遊戲設置</string>
+    <string name="l983275tsilp3m-n8" mz="n8">按鍵音量</string>
+    <string name="l983275tsilp3m-n9" mz="n9">背景音量</string>
+    <string name="l983275tsilp3m-n10" mz="n10">特效音量</string>
+    <string name="l983275tsilp3m-n11" mz="n11">文字速度</string>
+    <string name="l983275tsilp3m-n12" mz="n12">文字速度自動</string>
+    <string name="l983275tsilp3m-n13" mz="n13">分辨率設置</string>
+    <string name="l983275tsilp3m-n14" mz="n14">全屏模式</string>
+    <string name="l983275tsilp3m-n26" mz="n26">音量設置</string>
+    <string name="l983275tsilp3m-n27" mz="n27">文字設置</string>
+    <string name="l983275tsilp3m-n28" mz="n28">顯示設置</string>
+    <string name="l983275tsilp3m-n37" mz="n37">語言設置</string>
+    <string name="l983275tsilp3m-n45_hsf7" mz="n45">人物音量</string>
+    <string name="l983275tsilp3m-n48_hsf7" mz="n48">恢復設置</string>
+    <!-- AVGUI - ConFrame -->
+    <string name="l983275tsilp3h-n1" mz="n1">開始遊戲</string>
+    <string name="l983275tsilp3h-n9" mz="ContinueContentsText">開始新的遊戲……</string>
+    <!-- AVGUI - DelPanelMain -->
+    <string name="l983275tljw565-n1" mz="title">刪除確認</string>
+    <!-- AVGUI - DirectorText -->
+    <string name="l983275tljw569-n3" mz="Name">？？？</string>
+    <!-- AVGUI - HomePanelMain -->
+    <string name="l983275tfgrb70-n1" mz="title">返回確認</string>
+    <!-- AVGUI - ListDropdown -->
+    <string name="l983275tpxmk5s-n1-0" mz="List">2560x1440</string>
+    <string name="l983275tpxmk5s-n1-1" mz="List">1920x1080</string>
+    <string name="l983275tpxmk5s-n1-2" mz="List">1600x900</string>
+    <string name="l983275tpxmk5s-n1-3" mz="List">1280x720</string>
+    <string name="l983275tpxmk5s-n1-4" mz="List">1024x576</string>
+    <!-- AVGUI - ListDropdownForLang -->
+    <string name="l983275tjyee6z-n1-0" mz="List">简体中文</string>
+    <string name="l983275tjyee6z-n1-1" mz="List">繁體中文</string>
+    <string name="l983275tjyee6z-n1-2" mz="List">English</string>
+    <string name="l983275tjyee6z-n1-3" mz="List">Japanese</string>
+    <!-- AVGUI - LoadCell -->
+    <string name="l983275tdjk42v-n3" mz="LoadContentsText">壹二三四五六七八九</string>
+    <string name="l983275tdjk42v-n4" mz="LoadIdx">No.1000</string>
+    <string name="l983275tdjk42v-n5" mz="LoadDate">2017/3/17 17:34 AM</string>
+    <string name="l983275tdjk42v-n9" mz="T5">…</string>
+    <!-- AVGUI - LoadFrame -->
+    <string name="l983275tsilp39-n1" mz="n1">讀取存檔</string>
+  <!-- AVGUI - LoadPanelMain -->
+  <string name="l983275tr1z68i-n1" mz="title">載入確認</string>
+    <!-- AVGUI - MainThemeCGMainBtn -->
+    <string name="l983275tdjk42r-n2" mz="n2">相冊模式</string>
+    <!-- AVGUI - MainThemeConfigBtn -->
+    <string name="l983275tdjk42q-n2" mz="n2">遊戲設置</string>
+    <!-- AVGUI - MainThemeExitBtn -->
+    <string name="l983275tdjk42o-n2" mz="n2">離開遊戲</string>
+    <!-- AVGUI - MainThemeStartBtn -->
+    <string name="l983275tdjk42p-n2" mz="n2">開始遊戲</string>
+    <!-- AVGUI - QuitPanelMain -->
+    <string name="l983275tqhui6w-n1" mz="title">退出確認</string>
+    <!-- AVGUI - ResetPanelMain -->
+    <string name="l983275thsf77n-n1" mz="title">重置確認</string>
+    <!-- AVGUI - ReviewMain -->
+    <string name="l983275tljw56q-n31" mz="n31">回想模式</string>
+    <string name="l983275tljw56q-n38" mz="n38">頁數:</string>
+      <string name="l983275tljw56q-n42_styq-prompt" mz="SetReviewPage">頁碼</string>
+  <!-- AVGUI - RewritePanelMain -->
+  <string name="l983275tr1z68h-n1" mz="title">覆蓋確認</string>
+  <!-- AVGUI - SaveFrame -->
+  <string name="l983275tljw56l-n1" mz="n1">管理存檔</string>
+  <!-- AVGUI - SceneCell -->
+  <string name="l983275tsilp3b-n4" mz="SceneName">序章</string>
+  <string name="l983275tsilp3b-n9" mz="Title">章節</string>
+  <!-- AVGUI - SceneFrame -->
+  <string name="l983275tsilp3a-n2" mz="n2">章節選擇</string>
+  <!-- AVGUI - SceneShowBoard -->
+  <string name="l983275tfoje76-n4_foje" mz="SceneNameOdd">序幕</string>
+  <string name="l983275tfoje76-n5_59fs" mz="SceneNameEven">序幕</string>
+  <string name="l983275tfoje76-n6_fe9w" mz="SceneNameEnd">The End</string>
+</resources>

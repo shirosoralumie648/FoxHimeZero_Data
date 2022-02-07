@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- AVGUI - BtnAddSave -->
+  <string name="l983275tljw56m-n5" mz="title">Save</string>
+  <!-- AVGUI - BtnAutoText -->
+  <string name="l983275tljw56b-n12" mz="n12">Auto Play</string>
+  <!-- AVGUI - BtnCfg -->
+  <string name="l983275tljw56h-n15" mz="n15">Options</string>
+  <!-- AVGUI - BtnCon -->
+  <string name="l983275tsilp3g-n0" mz="n0">Start</string>
+  <!-- AVGUI - BtnDelete -->
+  <string name="l983275tdjk42x-n5" mz="title">Delete</string>
+  <!-- AVGUI - BtnDLCMoriChan -->
+  <string name="l983275tofvc8d-n1_ofvc" mz="n1">MoriChan</string>
+  <!-- AVGUI - BtnDropdown -->
+  <string name="l983275tpxmk5r-n3" mz="ResolutionDisp">1920x1080</string>
+  <!-- AVGUI - BtnDropdownForLang -->
+  <string name="l983275tjyee6y-n3" mz="LangDisp">简体中文</string>
+  <!-- AVGUI - BtnExit -->
+  <string name="l983275tljw56i-n18" mz="n18">Exit</string>
+  <!-- AVGUI - BtnHideUI -->
+  <string name="l983275tuz6c73-n15" mz="n15">Hide UI</string>
+  <!-- AVGUI - BtnHome -->
+  <string name="l983275tljw56f-n15" mz="n15">Return to Home</string>
+  <!-- AVGUI - BtnLoadIn -->
+  <string name="l983275tdjk42z-n5" mz="title">Load</string>
+  <!-- AVGUI - BtnLoadInReStart -->
+  <string name="l983275tb3xd8r-n5" mz="title">New Game</string>
+  <!-- AVGUI - BtnLoadInStart -->
+  <string name="l983275tjpq67g-n5" mz="title">Start</string>
+  <!-- AVGUI - BtnLoadSelect -->
+  <string name="l983275tsilp3f-n0" mz="n0">Load</string>
+  <!-- AVGUI - BtnOk -->
+  <string name="l983275tq8v064-n5" mz="title">Ok</string>
+  <!-- AVGUI - BtnReplayInReview -->
+  <string name="l983275tstyq8k-n16" mz="n16">Replay Voice</string>
+  <!-- AVGUI - BtnReplayInTextBoard -->
+  <string name="l983275tstyq8l-n16" mz="n16">Replay Voice</string>
+  <!-- AVGUI - BtnReset -->
+  <string name="l983275thsf77l-n5" mz="title">Reset</string>
+  <!-- AVGUI - BtnReturn -->
+  <string name="l983275tmjcob-n5" mz="title">Back</string>
+  <!-- AVGUI - BtnReview -->
+  <string name="l983275tljw56g-n15" mz="n15">Review</string>
+  <!-- AVGUI - BtnRewrite -->
+  <string name="l983275tr1z68g-n5" mz="title">Rewrite</string>
+  <!-- AVGUI - BtnSave -->
+  <string name="l983275tljw56c-n16" mz="n16">Load & Save</string>
+  <!-- AVGUI - BtnSceneSelect -->
+  <string name="l983275tsilp3e-n0" mz="n0">Scenes</string>
+  <!-- AVGUI - CGMain -->
+  <string name="l983275tmcd92-n6" mz="n6">Gallery</string>
+  <string name="l983275tmcd92-n10" mz="n10">Collected:</string>
+  <!-- AVGUI - ConfigMain -->
+  <string name="l983275tsilp3m-n4" mz="n4">Options</string>
+  <string name="l983275tsilp3m-n8" mz="n8">Button Vol</string>
+  <string name="l983275tsilp3m-n9" mz="n9">BGM Vol</string>
+  <string name="l983275tsilp3m-n10" mz="n10">SE Vol</string>
+  <string name="l983275tsilp3m-n11" mz="n11">Display Speed</string>
+  <string name="l983275tsilp3m-n12" mz="n12">Display Speed(Auto)</string>
+  <string name="l983275tsilp3m-n13" mz="n13">Resolution</string>
+  <string name="l983275tsilp3m-n14" mz="n14">FullScreen</string>
+  <string name="l983275tsilp3m-n26" mz="n26">Volume Setting</string>
+  <string name="l983275tsilp3m-n27" mz="n27">Text Setting</string>
+  <string name="l983275tsilp3m-n28" mz="n28">Display Setting</string>
+  <string name="l983275tsilp3m-n37" mz="n37">Language</string>
+  <string name="l983275tsilp3m-n45_hsf7" mz="n45">Chara Voice</string>
+  <string name="l983275tsilp3m-n48_hsf7" mz="n48">Restore Defaults</string>
+  <!-- AVGUI - ConFrame -->
+  <string name="l983275tsilp3h-n1" mz="n1">Start</string>
+  <string name="l983275tsilp3h-n9" mz="ContinueContentsText">Start a new game……</string>
+  <!-- AVGUI - DelPanelMain -->
+  <string name="l983275tljw565-n1" mz="title">Delete Confirm</string>
+  <!-- AVGUI - DirectorText -->
+  <string name="l983275tljw569-n3" mz="Name">？？？</string>
+  <!-- AVGUI - HomePanelMain -->
+  <string name="l983275tfgrb70-n1" mz="title">Return Confirm</string>
+  <!-- AVGUI - ListDropdown -->
+  <string name="l983275tpxmk5s-n1-0" mz="List">2560x1440</string>
+  <string name="l983275tpxmk5s-n1-1" mz="List">1920x1080</string>
+  <string name="l983275tpxmk5s-n1-2" mz="List">1600x900</string>
+  <string name="l983275tpxmk5s-n1-3" mz="List">1280x720</string>
+  <string name="l983275tpxmk5s-n1-4" mz="List">1024x576</string>
+  <!-- AVGUI - ListDropdownForLang -->
+  <string name="l983275tjyee6z-n1-0" mz="List">简体中文</string>
+  <string name="l983275tjyee6z-n1-1" mz="List">繁體中文</string>
+  <string name="l983275tjyee6z-n1-2" mz="List">English</string>
+  <string name="l983275tjyee6z-n1-3" mz="List">Japanese</string>
+  <!-- AVGUI - LoadCell -->
+  <string name="l983275tdjk42v-n3" mz="LoadContentsText">一二三四五六七八…</string>
+  <string name="l983275tdjk42v-n4" mz="LoadIdx">No.1000</string>
+  <string name="l983275tdjk42v-n5" mz="LoadDate">2017/3/17 17:34 AM</string>
+  <string name="l983275tdjk42v-n9" mz="T5">…</string>
+  <!-- AVGUI - LoadFrame -->
+  <string name="l983275tsilp39-n1" mz="n1">Load Game</string>
+  <!-- AVGUI - LoadPanelMain -->
+  <string name="l983275tr1z68i-n1" mz="title">Loading Confirm</string>
+  <!-- AVGUI - MainThemeCGMainBtn -->
+  <string name="l983275tdjk42r-n2" mz="n2">Gallery</string>
+  <!-- AVGUI - MainThemeConfigBtn -->
+  <string name="l983275tdjk42q-n2" mz="n2">Options</string>
+  <!-- AVGUI - MainThemeExitBtn -->
+  <string name="l983275tdjk42o-n2" mz="n2">Exit</string>
+  <!-- AVGUI - MainThemeStartBtn -->
+  <string name="l983275tdjk42p-n2" mz="n2">Start</string>
+  <!-- AVGUI - QuitPanelMain -->
+  <string name="l983275tqhui6w-n1" mz="title">Exit Confirm</string>
+  <!-- AVGUI - ResetPanelMain -->
+  <string name="l983275thsf77n-n1" mz="title">Reset Confirm</string>
+  <!-- AVGUI - ReviewMain -->
+  <string name="l983275tljw56q-n31" mz="n31">Review</string>
+  <string name="l983275tljw56q-n38" mz="n38">Page</string>
+  <string name="l983275tljw56q-n42_styq-prompt" mz="SetReviewPage">PageNo.</string>
+  <!-- AVGUI - RewritePanelMain -->
+  <string name="l983275tr1z68h-n1" mz="title">Rewrite Confirm</string>
+  <!-- AVGUI - SaveFrame -->
+  <string name="l983275tljw56l-n1" mz="n1">Load & Save</string>
+  <!-- AVGUI - SceneCell -->
+  <string name="l983275tsilp3b-n4" mz="SceneName">序章</string>
+  <string name="l983275tsilp3b-n9" mz="Title">Scene</string>
+  <!-- AVGUI - SceneFrame -->
+  <string name="l983275tsilp3a-n2" mz="n2">Select Scene</string>
+  <!-- AVGUI - SceneShowBoard -->
+  <string name="l983275tfoje76-n4_foje" mz="SceneNameOdd">序幕</string>
+  <string name="l983275tfoje76-n5_59fs" mz="SceneNameEven">序幕</string>
+  <string name="l983275tfoje76-n6_fe9w" mz="SceneNameEnd">The End</string>
+</resources>
